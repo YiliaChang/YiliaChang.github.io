@@ -46,7 +46,8 @@ My research interest includes:
 
 **Jinyi Chang**, Dongliang Chang, Lei Chen, Bingyao Yu, Zhanyu Ma.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+[**Project**](https://YiliaChang.github.io) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A novel approach for privacy-preserving Fine-Grained Visual Classification(FGVC), eliminating direct reliance on instance-level labels based on Learning from Label Proportions(LLP) paradigm. 
 </div>
 </div>
