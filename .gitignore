@@ -1,4 +1,4 @@
-_site/
+# _site/
 push.sh
 .DS_Store
 README.md
