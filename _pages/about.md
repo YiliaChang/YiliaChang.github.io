@@ -19,6 +19,7 @@ redirect_from:
 
 # 👩🏻‍💻 About Me
 I am currently a Ph.D. student under the supervision of Prof. [Heng Guo](https://gh-home.github.io/) at the Pattern Recognition and Intelligent System Laboratory (PRIS-CV), School of Artificial Intelligence, Beijing University of Posts and Telecommunications (BUPT). 
+
 Before that, I was doing my master in BUPT as well with Prof. [Zhanyu Ma](https://zhanyuma.cn/) and [Dongliang Chang](https://www.dongliangchang.cn/). My bachelor degree is obtained from Beijing University of Technology (BJUT) in 2023.
 
 My research interest includes:
