@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://github.com/YiliaChang</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-04-04</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://scholar.google.com/citations?user=7H6ZzlcAAAAJ</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-04-04</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://orcid.org/0009-0004-2327-436X</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-04-04</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://gh-home.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-04-04</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://zhanyuma.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-04-04</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.dongliangchang.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-04-04</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://arxiv.org/pdf/2505.23031</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-04-04</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://YiliaChang.github.io</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-04-04</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://yiliachang.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-04-04</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
